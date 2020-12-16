@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shvedki/static/css/main.ffb155f0.chunk.css",
-    "main.js": "/shvedki/static/js/main.853c4d8c.chunk.js",
-    "main.js.map": "/shvedki/static/js/main.853c4d8c.chunk.js.map",
+    "main.js": "/shvedki/static/js/main.31bb52de.chunk.js",
+    "main.js.map": "/shvedki/static/js/main.31bb52de.chunk.js.map",
     "runtime-main.js": "/shvedki/static/js/runtime-main.c4025ac1.js",
     "runtime-main.js.map": "/shvedki/static/js/runtime-main.c4025ac1.js.map",
     "static/js/2.9fd76080.chunk.js": "/shvedki/static/js/2.9fd76080.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c4025ac1.js",
     "static/js/2.9fd76080.chunk.js",
     "static/css/main.ffb155f0.chunk.css",
-    "static/js/main.853c4d8c.chunk.js"
+    "static/js/main.31bb52de.chunk.js"
   ]
 }
